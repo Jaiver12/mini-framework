@@ -1,9 +1,9 @@
 <?php
 // Definimos las constantes de nuestra base de datos
-define("BD_HOST", "localhost");
-define("BD_NAME", "red-social");
-define("BD_USER", "root");
-define("BD_PASSWORD", "");
+define("DB_HOST", "localhost");
+define("DB_NAME", "red-social");
+define("DB_USER", "root");
+define("DB_PASSWORD", "");
 
 // Definir la carpeta del proyecto app
 define("URL_APP" , dirname(dirname(__FILE__)));
